@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>给儿子的web</title>
+  <title>You all my son</title>
   <style>
     body {
       margin: 0;
       padding: 0;
-      background: #ffe6f0;
-      color: #d63384;
+      background: #f9b9d3;
+      color: #d6324a;
       font-family: "Comic Sans MS", "Segoe UI", cursive;
       display: flex;
       align-items: center;
@@ -30,7 +30,7 @@
       position: absolute;
       width: 20px;
       height: 20px;
-      background-color: yellow;
+      background-color: rgb(217, 91, 112);
       transform: rotate(45deg);
       animation: fall 5s linear infinite;
     }
@@ -68,7 +68,7 @@
   </style>
 </head>
 <body>
-  <h1>你们都是我的儿子<br>🫄🏻</h1>
+  <h1>儿子们你们好，你们都是我儿子<br>💗</h1>
 
   <script>
     function createHeart() {
